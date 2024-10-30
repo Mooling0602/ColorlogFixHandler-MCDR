@@ -4,7 +4,7 @@
 	"name": "ColorlogFixHandler",
 	"description": {
 	    "en_us": "Fixed built-in bukkit_handler not work properly with logs colored by ANSI codes.",
-		"zh_cn": "修复了内置bukkit_handler无法正确解析使用ANSI转义序列染色的日志。"
+	    "zh_cn": "修复了内置bukkit_handler无法正确解析使用ANSI转义序列染色的日志。"
 	},
 	"dependencies": {
 		"mcdreforged": ">=2.1.0"
