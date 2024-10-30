@@ -1,0 +1,3 @@
+ansi_removed_handler:
+  tip1: 仅支持适用bukkit_handler，且日志内彩色文本使用ANSI转义序列导致MCDR不能正常解析的服务端
+  tip2: 已测试过的服务端：Mohist 1.20.1+（需加上启动参数-Dterminal.ansi=true）、Leaves

@@ -1,0 +1,3 @@
+ansi_removed_handler:
+  tip1: Only supports servers that use bukkit_handler, and the colored text in the logs uses ANSI codes, which prevents MCDR from parsing correctly.
+  tip2: 'Tested server: Mohist 1.20.1+(with -Dterminal.ansi=true), Leaves'
